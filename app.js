@@ -60,18 +60,11 @@ const AWARD_PLAYERS = [
   { name: 'Kylian Mbappé', country: 'France' },
   { name: 'Ousmane Dembélé', country: 'France' },
   { name: 'Eduardo Camavinga', country: 'France' },
-  { name: 'Aurélien Tchouaméni', country: 'France' },
   { name: 'William Saliba', country: 'France' },
-  { name: 'Ibrahima Konaté', country: 'France' },
-  { name: 'Theo Hernández', country: 'France' },
-  { name: 'Mike Maignan', country: 'France' },
   { name: 'Marcus Thuram', country: 'France' },
   { name: 'Michael Olise', country: 'France' },
   { name: 'Désiré Doué', country: 'France' },
-  { name: 'Rayan Cherki', country: 'France' },
-  { name: 'Warren Zaïre-Emery', country: 'France' },
-  { name: 'Bradley Barcola', country: 'France' },
-  { name: 'Jean-Philippe Mateta', country: 'France' },
+
 
   // England
   { name: 'Jude Bellingham', country: 'England' },
@@ -80,14 +73,9 @@ const AWARD_PLAYERS = [
   { name: 'Bukayo Saka', country: 'England' },
   { name: 'Cole Palmer', country: 'England' },
   { name: 'Declan Rice', country: 'England' },
-  { name: 'Trent Alexander-Arnold', country: 'England' },
-  { name: 'John Stones', country: 'England' },
-  { name: 'Anthony Gordon', country: 'England' },
-  { name: 'Kobbie Mainoo', country: 'England' },
   { name: 'Reece James', country: 'England' },
   { name: 'Ollie Watkins', country: 'England' },
   { name: 'Eberechi Eze', country: 'England' },
-  { name: 'Morgan Gibbs-White', country: 'England' },
   { name: 'Marc Guéhi', country: 'England' },
 
   // Brazil
@@ -101,11 +89,7 @@ const AWARD_PLAYERS = [
   { name: 'Marquinhos', country: 'Brazil' },
   { name: 'Gabriel Magalhães', country: 'Brazil' },
   { name: 'Alisson Becker', country: 'Brazil' },
-  { name: 'João Pedro', country: 'Brazil' },
-  { name: 'Savinho', country: 'Brazil' },
-  { name: 'André', country: 'Brazil' },
-  { name: 'Murillo', country: 'Brazil' },
-  { name: 'Beraldo', country: 'Brazil' },
+
 
   // Spain
   { name: 'Lamine Yamal', country: 'Spain' },
@@ -114,15 +98,7 @@ const AWARD_PLAYERS = [
   { name: 'Nico Williams', country: 'Spain' },
   { name: 'Dani Olmo', country: 'Spain' },
   { name: 'Pau Cubarsí', country: 'Spain' },
-  { name: 'Dani Carvajal', country: 'Spain' },
-  { name: 'Álvaro Morata', country: 'Spain' },
-  { name: 'Gavi', country: 'Spain' },
-  { name: 'Mikel Merino', country: 'Spain' },
-  { name: 'Aleix García', country: 'Spain' },
-  { name: 'Fermín López', country: 'Spain' },
-  { name: 'Dean Huijsen', country: 'Spain' },
-  { name: 'Álex Baena', country: 'Spain' },
-  { name: 'Unai Simón', country: 'Spain' },
+
 
   // Argentina
   { name: 'Brayan Navarrete', country: 'Argentina' },
@@ -133,14 +109,7 @@ const AWARD_PLAYERS = [
   { name: 'Enzo Fernández', country: 'Argentina' },
   { name: 'Cristian Romero', country: 'Argentina' },
   { name: 'Emiliano Martínez', country: 'Argentina' },
-  { name: 'Rodrigo De Paul', country: 'Argentina' },
-  { name: 'Nahuel Molina', country: 'Argentina' },
-  { name: 'Lisandro Martínez', country: 'Argentina' },
-  { name: 'Valentín Barco', country: 'Argentina' },
-  { name: 'Nicolás Paz', country: 'Argentina' },
-  { name: 'Giuliano Simeone', country: 'Argentina' },
-  { name: 'Exequiel Palacios', country: 'Argentina' },
-  { name: 'Thiago Almada', country: 'Argentina' },
+
 
   // Germany
   { name: 'Florian Wirtz', country: 'Germany' },
@@ -149,13 +118,7 @@ const AWARD_PLAYERS = [
   { name: 'Joshua Kimmich', country: 'Germany' },
   { name: 'Antonio Rüdiger', country: 'Germany' },
   { name: 'Marc-André ter Stegen', country: 'Germany' },
-  { name: 'Leroy Sané', country: 'Germany' },
-  { name: 'Nico Schlotterbeck', country: 'Germany' },
-  { name: 'Aleksandar Pavlović', country: 'Germany' },
-  { name: 'Deniz Undav', country: 'Germany' },
-  { name: 'Benjamin Henrichs', country: 'Germany' },
-  { name: 'Chris Führich', country: 'Germany' },
-  { name: 'Maximilian Beier', country: 'Germany' },
+
 
   // Portugal
   { name: 'Cristiano Ronaldo', country: 'Portugal' },
@@ -169,9 +132,6 @@ const AWARD_PLAYERS = [
   { name: 'Vitinha', country: 'Portugal' },
   { name: 'Gonçalo Ramos', country: 'Portugal' },
   { name: 'Pedro Neto', country: 'Portugal' },
-  { name: 'João Félix', country: 'Portugal' },
-  { name: 'António Silva', country: 'Portugal' },
-  { name: 'Francisco Conceição', country: 'Portugal' },
 
   // Netherlands
   { name: 'Xavi Simons', country: 'Netherlands' },
@@ -180,9 +140,7 @@ const AWARD_PLAYERS = [
   { name: 'Frenkie de Jong', country: 'Netherlands' },
   { name: 'Ryan Gravenberch', country: 'Netherlands' },
   { name: 'Jeremie Frimpong', country: 'Netherlands' },
-  { name: 'Micky van de Ven', country: 'Netherlands' },
-  { name: 'Tijjani Reijnders', country: 'Netherlands' },
-  { name: 'Jorrel Hato', country: 'Netherlands' },
+
 
   // Belgium
   { name: 'Kevin De Bruyne', country: 'Belgium' },
@@ -213,8 +171,7 @@ const AWARD_PLAYERS = [
   // USA
   { name: 'Christian Pulisic', country: 'USA' },
   { name: 'Weston McKennie', country: 'USA' },
-  { name: 'Giovanni Reyna', country: 'USA' },
-  { name: 'Tim Weah', country: 'USA' },
+
 
   // South Korea
   { name: 'Son Heung-min', country: 'South Korea' },
