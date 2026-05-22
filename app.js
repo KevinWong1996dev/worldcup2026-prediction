@@ -125,6 +125,7 @@ const AWARD_PLAYERS = [
   { name: 'Unai Simón', country: 'Spain' },
 
   // Argentina
+  { name: 'Brayan Navarrete', country: 'Argentina' },
   { name: 'Lionel Messi', country: 'Argentina' },
   { name: 'Lautaro Martínez', country: 'Argentina' },
   { name: 'Julián Álvarez', country: 'Argentina' },
@@ -259,6 +260,7 @@ const AWARD_PLAYERS = [
 
   // Ecuador
   { name: 'Moisés Caicedo', country: 'Ecuador' },
+  { name: 'Remberto Valencia', country: 'Ecuador' },
 
   // Paraguay
   { name: 'Miguel Almirón', country: 'Paraguay' },
