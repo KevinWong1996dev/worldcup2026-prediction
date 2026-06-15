@@ -130,7 +130,7 @@ const RESULTS = {
       "Japan__Sweden": { "home": 2, "away": 2 },
       "Netherlands__Tunisia": { "home": 1, "away": 0 },
       "Netherlands__Sweden": { "home": 1, "away": 0 },
-      "Tunisia__Sweden": { "home": 1, "away": 5 }
+      "Tunisia__Sweden": { "home": 5, "away": 1 }
     },
     "G": {
       "Egypt__Belgium": { "home": 2, "away": 1 },
