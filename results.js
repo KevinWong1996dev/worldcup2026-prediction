@@ -135,7 +135,7 @@ const RESULTS = {
     "G": {
       "Egypt__Belgium": { "home": 1, "away": 1 },
       "Egypt__Iran": { "home": 100, "away": 100 },
-      "Egypt__New Zealand": { "home": 3, "away": 1 },
+      "Egypt__New Zealand": { "home": 100, "away": 100 },
       "Belgium__Iran": { "home": 100, "away": 100 },
       "Belgium__New Zealand": { "home": 100, "away": 100 },
       "Iran__New Zealand": { "home": 100, "away": 100 }
