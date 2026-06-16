@@ -181,7 +181,7 @@ const RESULTS = {
       "Croatia__Panama": { "home": 100, "away": 100 }
     }
   },
-  /*
+  
   "knockout": {
     "round32": [
       "South Africa",
@@ -289,7 +289,7 @@ const RESULTS = {
   ],
   "champion": "Norway",
   "runnerUp": "Algeria",
-  "thirdPlaceWinner": "Morocco",*/
+  "thirdPlaceWinner": "Morocco",
   "awards": {
     "goldenBoot": [
       "Kylian Mbappé",
