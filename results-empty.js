@@ -1,8 +1,7 @@
 const RESULTS = {
   groups: {},
   thirdPlace: [],
-  groupMatches: {
-
+  "groupMatches": {
     "A": {
       "Mexico__South Africa": { "home": 2, "away": 0 },
       "Mexico__South Korea": { "home": 100, "away": 100 },
@@ -66,9 +65,41 @@ const RESULTS = {
       "Spain__Saudi Arabia": { "home": 100, "away": 100 },
       "Spain__Cape Verde": { "home": 0, "away": 0 },
       "Saudi Arabia__Cape Verde": { "home": 0, "away": 100 }
+    },
+    "I": {
+      "France__Iraq": { "home": 100, "away": 100 },
+      "France__Senegal": { "home": 100, "away": 100 },
+      "France__Norway": { "home": 100, "away": 100 },
+      "Iraq__Senegal": { "home": 100, "away": 100 },
+      "Iraq__Norway": { "home": 100, "away": 100 },
+      "Senegal__Norway": { "home": 100, "away": 100 }
+    },
+    "J": {
+      "Argentina__Jordan": { "home": 100, "away": 100 },
+      "Argentina__Algeria": { "home": 100, "away": 100 },
+      "Argentina__Austria": { "home": 100, "away": 100 },
+      "Jordan__Algeria": { "home": 100, "away": 100 },
+      "Jordan__Austria": { "home": 100, "away": 100 },
+      "Algeria__Austria": { "home": 100, "away": 100 }
+    },
+    "K": {
+      "Portugal__Uzbekistan": { "home": 100, "away": 100 },
+      "Portugal__DR Congo": { "home": 100, "away": 100 },
+      "Portugal__Colombia": { "home": 100, "away": 100 },
+      "Uzbekistan__DR Congo": { "home": 100, "away": 100 },
+      "Uzbekistan__Colombia": { "home": 100, "away": 100 },
+      "DR Congo__Colombia": { "home": 100, "away": 100 }
+    },
+    "L": {
+      "England__Ghana": { "home": 100, "away": 100 },
+      "England__Croatia": { "home": 100, "away": 100 },
+      "England__Panama": { "home": 100, "away": 100 },
+      "Ghana__Croatia": { "home": 100, "away": 100 },
+      "Ghana__Panama": { "home": 100, "away": 100 },
+      "Croatia__Panama": { "home": 100, "away": 100 }
     }
   },
-
+  
   knockout: {
     round32: [],
     round16: [],
