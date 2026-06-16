@@ -289,7 +289,7 @@ const RESULTS = {
   ],
   "champion": "Norway",
   "runnerUp": "Algeria",
-  "thirdPlaceWinner": "Morocco",
+  "thirdPlaceWinner": "Morocco",*/
   "awards": {
     "goldenBoot": [
       "Kylian Mbappé",
