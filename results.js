@@ -232,7 +232,8 @@ const RESULTS = {
     "thirdPlace": "Morocco",
     "matches": {
       "round32": [
-        { "match": 73, "team1": "South Africa", "team2": "Canada", "winner": "South Africa" },
+        //{ "match": 73, "team1": "South Africa", "team2": "Canada", "winner": "South Africa" },
+        { "match": 73, "team1": "", "team2": "", "winner": "" },
         { "match": 74, "team1": "Ivory Coast", "team2": "Spain", "winner": "Ivory Coast" },
         { "match": 75, "team1": "Netherlands", "team2": "Scotland", "winner": "Netherlands" },
         { "match": 76, "team1": "Brazil", "team2": "Japan", "winner": "Brazil" },
