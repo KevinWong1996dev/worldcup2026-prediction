@@ -181,6 +181,7 @@ const RESULTS = {
       "Croatia__Panama": { "home": 100, "away": 100 }
     }
   },
+  /*
   "knockout": {
     "round32": [
       "South Africa",
