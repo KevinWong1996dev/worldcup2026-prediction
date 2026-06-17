@@ -84,7 +84,7 @@ const RESULTS = {
     },
     "K": {
       "Portugal__Uzbekistan": { "home": 100, "away": 100 },
-      "Portugal__DR Congo": { "home": 100, "away": 100 },
+      "Portugal__DR Congo": { "home": 1, "away": 1 },
       "Portugal__Colombia": { "home": 100, "away": 100 },
       "Uzbekistan__DR Congo": { "home": 100, "away": 100 },
       "Uzbekistan__Colombia": { "home": 100, "away": 100 },
