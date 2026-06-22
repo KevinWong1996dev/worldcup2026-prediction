@@ -77,7 +77,7 @@ const RESULTS = {
     "J": {
       "Argentina__Jordan": { "home": 100, "away": 100 },
       "Argentina__Algeria": { "home": 3, "away": 0 },
-      "Argentina__Austria": { "home": 100, "away": 100 },
+      "Argentina__Austria": { "home": 2, "away": 0 },
       "Jordan__Algeria": { "home": 100, "away": 100 },
       "Austria__Jordan": { "home": 3, "away": 1 },
       "Algeria__Austria": { "home": 100, "away": 100 }
