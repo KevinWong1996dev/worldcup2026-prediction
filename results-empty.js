@@ -96,7 +96,7 @@ const RESULTS = {
       "England__Panama": { "home": 100, "away": 100 },
       "Ghana__Croatia": { "home": 100, "away": 100 },
       "Ghana__Panama": { "home": 1, "away": 0 },
-      "Croatia__Panama": { "home": 1, "away": 0 }
+      "Panama__Croatia": { "home": 0, "away": 1 }
     }
   },
   
