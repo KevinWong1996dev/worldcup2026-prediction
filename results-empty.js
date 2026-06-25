@@ -11,6 +11,12 @@ const RESULTS = {
       "Canada",
       "Bosnia & Herzegovina",
       "Qatar"
+    ],
+    "C": [
+      "Brazil",
+      "Morocco",
+      "Scotland",
+      "Haiti"
     ]
   },
   thirdPlace: [],
