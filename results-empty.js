@@ -17,6 +17,24 @@ const RESULTS = {
       "Morocco",
       "Scotland",
       "Haiti"
+    ],
+     "D": [
+      "USA",
+      "Australia",
+      "Paraguay",
+      "Turkey"
+    ],
+    "E": [
+      "Germany",
+      "Ivory Coast",
+      "Ecuador",
+      "Curaçao"
+    ],
+    "F": [
+      "Netherlands",
+      "Japan",
+      "Sweden",
+      "Tunisia"
     ]
   },
   thirdPlace: [],
