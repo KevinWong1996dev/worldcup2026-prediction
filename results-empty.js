@@ -48,24 +48,24 @@ const RESULTS = {
     "D": {
       "Turkey__Paraguay": { "home": 0, "away": 1 },
       "Australia__Turkey": { "home": 2, "away": 0 },
-      "Turkey__USA": { "home": 100, "away": 100 },
-      "Paraguay__Australia": { "home": 100, "away": 100 },
+      "Turkey__USA": { "home": 3, "away": 2 },
+      "Paraguay__Australia": { "home": 0, "away": 0 },
       "USA__Paraguay": { "home": 4, "away": 1 },
       "USA__Australia": { "home": 2, "away": 0 }
     },
     "E": {
       "Curaçao__Ecuador": { "home": 0, "away": 0 },
       "Germany__Curaçao": { "home": 7, "away": 1 },
-      "Curaçao__Ivory Coast": { "home": 100, "away": 100 },
-      "Ecuador__Germany": { "home": 100, "away": 100 },
+      "Curaçao__Ivory Coast": { "home": 0, "away": 2 },
+      "Ecuador__Germany": { "home": 2, "away": 1 },
       "Ivory Coast__Ecuador": { "home": 1, "away": 0 },
       "Germany__Ivory Coast": { "home": 2, "away": 1 }
     },
     "F": {
       "Japan__Netherlands": { "home": 2, "away": 2 },
       "Tunisia__Japan": { "home": 0, "away": 4 },
-      "Japan__Sweden": { "home": 100, "away": 100 },
-      "Netherlands__Tunisia": { "home": 100, "away": 100 },
+      "Japan__Sweden": { "home": 1, "away": 1 },
+      "Tunisia__Netherlands": { "home": 1, "away": 3 },
       "Netherlands__Sweden": { "home": 5, "away": 1 },
       "Tunisia__Sweden": { "home": 5, "away": 1 }
     },
