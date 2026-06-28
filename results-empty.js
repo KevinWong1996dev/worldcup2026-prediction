@@ -35,6 +35,42 @@ const RESULTS = {
       "Japan",
       "Sweden",
       "Tunisia"
+    ],
+    "G": [
+      "Belgium",
+      "Egypt",
+      "Iran",
+      "New Zealand"
+    ],
+    "H": [
+      "Spain",
+      "Cape Verde",
+      "Uruguay",     
+      "Saudi Arabia"
+    ],
+    "I": [
+      "France",
+      "Norway",
+      "Senegal",
+      "Iraq"      
+    ],
+    "J": [
+      "Argentina",
+      "Austria",
+      "Algeria",
+      "Jordan"
+    ],
+    "K": [
+      "Colombia",
+      "Portugal",
+      "DR Congo",      
+      "Uzbekistan"
+    ],
+    "L": [
+      "England",
+      "Croatia",
+      "Ghana",
+      "Panama"
     ]
   },
   thirdPlace: [],
