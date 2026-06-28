@@ -89,25 +89,25 @@ const RESULTS = {
     },
     "G": {
       "Egypt__Belgium": { "home": 1, "away": 1 },
-      "Egypt__Iran": { "home": 100, "away": 100 },
+      "Egypt__Iran": { "home": 1, "away": 1 },
       "New Zealand__Egypt": { "home": 1, "away": 3 },
       "Belgium__Iran": { "home": 0, "away": 0 },
-      "Belgium__New Zealand": { "home": 100, "away": 100 },
+      "New Zealand__Belgium": { "home": 1, "away": 5 },
       "Iran__New Zealand": { "home": 2, "away": 2 }
     },
     "H": {
-      "Uruguay__Spain": { "home": 100, "away": 100 },
+      "Uruguay__Spain": { "home": 0, "away": 1 },
       "Uruguay__Saudi Arabia": { "home": 1, "away": 1 },
       "Uruguay__Cape Verde": { "home": 2, "away": 2 },
       "Spain__Saudi Arabia": { "home": 4, "away": 0 },
       "Spain__Cape Verde": { "home": 0, "away": 0 },
-      "Saudi Arabia__Cape Verde": { "home": 0, "away": 100 }
+      "Saudi Arabia__Cape Verde": { "home": 0, "away": 0 }
     },
     "I": {
       "France__Iraq": { "home": 3, "away": 0 },
       "France__Senegal": { "home": 3, "away": 1 },
-      "France__Norway": { "home": 100, "away": 100 },
-      "Iraq__Senegal": { "home": 100, "away": 100 },
+      "Norway__France": { "home": 1, "away": 4 },
+      "Senegal__Iraq": { "home": 5, "away": 0 },
       "Iraq__Norway": { "home": 1, "away": 4 },
       "Norway__Senegal": { "home": 3, "away": 2 }
     },
@@ -122,16 +122,16 @@ const RESULTS = {
     "K": {
       "Portugal__Uzbekistan": { "home": 5, "away": 0 },
       "Portugal__DR Congo": { "home": 1, "away": 1 },
-      "Portugal__Colombia": { "home": 100, "away": 100 },
-      "Uzbekistan__DR Congo": { "home": 100, "away": 100 },
+      "Colombia__Portugal": { "home": 0, "away": 0 },
+      "DR Congo__Uzbekistan": { "home": 3, "away": 1 },
       "Uzbekistan__Colombia": { "home": 1, "away": 3 },
       "Colombia__DR Congo": { "home": 1, "away": 0 }
     },
     "L": {
       "England__Ghana": { "home": 0, "away": 0 },
       "England__Croatia": { "home": 4, "away": 2 },
-      "England__Panama": { "home": 100, "away": 100 },
-      "Ghana__Croatia": { "home": 100, "away": 100 },
+      "Panama__England": { "home": 0, "away": 2 },
+      "Croatia__Ghana": { "home": 2, "away": 1 },
       "Ghana__Panama": { "home": 1, "away": 0 },
       "Panama__Croatia": { "home": 0, "away": 1 }
     }
