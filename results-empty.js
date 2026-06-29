@@ -198,12 +198,22 @@ const RESULTS = {
 
     matches: {
       round32: [
-        // {
-        //   match: 73,
-        //   team1: "",
-        //   team2: "",
-        //   winner: ""
-        // }
+        { "match": 73, "team1": "Canada", "team2": "South Africa", "winner": "Canada" },
+        { "match": 74, "team1": "Brazil", "team2": "Japan", "winner": "" },
+        { "match": 75, "team1": "Germany", "team2": "Paraguay", "winner": "" },
+        { "match": 76, "team1": "Netherlands", "team2": "Morocco", "winner": "" },
+        { "match": 77, "team1": "Ivory Coast", "team2": "Norway", "winner": "" },
+        { "match": 78, "team1": "France", "team2": "Sweden", "winner": "" },
+        { "match": 79, "team1": "Mexico", "team2": "Ecuador", "winner": "" },
+        { "match": 80, "team1": "England", "team2": "DR Congo", "winner": "" },
+        { "match": 81, "team1": "Belgium", "team2": "Senegal", "winner": "" },
+        { "match": 82, "team1": "USA", "team2": "Bosnia & Herzegovina", "winner": "" },
+        { "match": 83, "team1": "Spain", "team2": "Austria", "winner": "" },
+        { "match": 84, "team1": "Portugal", "team2": "Croatia", "winner": "" },
+        { "match": 85, "team1": "Switzerland", "team2": "Algeria", "winner": "" },
+        { "match": 86, "team1": "Egypt", "team2": "Australia", "winner": "" },
+        { "match": 87, "team1": "Argentina", "team2": "Cape Verde", "winner": "" },
+        { "match": 88, "team1": "Colombia", "team2": "Ghana", "winner": "" }
       ],
 
       round16: [
