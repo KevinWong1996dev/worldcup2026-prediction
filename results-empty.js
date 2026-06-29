@@ -148,12 +148,12 @@ const RESULTS = {
       "Norway__Senegal": { "home": 3, "away": 2 }
     },
     "J": {
-      "Argentina__Jordan": { "home": 100, "away": 100 },
+      "Jordan__Argentina": { "home": 3, "away": 1 },
       "Argentina__Algeria": { "home": 3, "away": 0 },
       "Argentina__Austria": { "home": 2, "away": 0 },
       "Jordan__Algeria": { "home": 1, "away": 2 },
       "Austria__Jordan": { "home": 3, "away": 1 },
-      "Algeria__Austria": { "home": 100, "away": 100 }
+      "Algeria__Austria": { "home": 3, "away": 3 }
     },
     "K": {
       "Portugal__Uzbekistan": { "home": 5, "away": 0 },
