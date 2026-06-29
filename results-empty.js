@@ -73,7 +73,16 @@ const RESULTS = {
       "Panama"
     ]
   },
-  thirdPlace: [],
+  thirdPlace: [
+    "Sweden",
+    "Ecuador",
+    "Bosnia & Herzegovina",
+    "Paraguay",
+    "Croatia",
+    "South Korea",
+    "Algeria",
+    "Scotland"
+  ],
   "groupMatches": {
     "A": {
       "Mexico__South Africa": { "home": 2, "away": 0 },
