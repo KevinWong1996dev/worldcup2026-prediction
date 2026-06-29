@@ -183,7 +183,10 @@ const RESULTS = {
   },
   
   knockout: {
-    round32: [],
+    round32: [
+      "Canada",
+      "Brazil"
+    ],
     round16: [],
     quarterfinals: [],
     semifinals: [],
