@@ -220,17 +220,17 @@ const RESULTS = {
         { "match": 75, "team1": "Germany", "team2": "Paraguay", "winner": "Paraguay" },
         { "match": 76, "team1": "Netherlands", "team2": "Morocco", "winner": "Morocco" },
         { "match": 77, "team1": "Ivory Coast", "team2": "Norway", "winner": "Norway" },
-        { "match": 78, "team1": "France", "team2": "Sweden", "winner": "Qatar" },
-        { "match": 79, "team1": "Mexico", "team2": "Ecuador", "winner": "Qatar" },
-        { "match": 80, "team1": "England", "team2": "DR Congo", "winner": "Qatar" },
-        { "match": 81, "team1": "Belgium", "team2": "Senegal", "winner": "Qatar" },
-        { "match": 82, "team1": "USA", "team2": "Bosnia & Herzegovina", "winner": "Qatar" },
-        { "match": 83, "team1": "Spain", "team2": "Austria", "winner": "Qatar" },
-        { "match": 84, "team1": "Portugal", "team2": "Croatia", "winner": "Qatar" },
-        { "match": 85, "team1": "Switzerland", "team2": "Algeria", "winner": "Qatar" },
-        { "match": 86, "team1": "Egypt", "team2": "Australia", "winner": "Qatar" },
-        { "match": 87, "team1": "Argentina", "team2": "Cape Verde", "winner": "Qatar" },
-        { "match": 88, "team1": "Colombia", "team2": "Ghana", "winner": "Qatar" }
+        { "match": 78, "team1": "France", "team2": "Sweden", "winner": "France" },
+        { "match": 79, "team1": "Mexico", "team2": "Ecuador", "winner": "Ecuador" },
+        { "match": 80, "team1": "England", "team2": "DR Congo", "winner": "England" },
+        { "match": 81, "team1": "Belgium", "team2": "Senegal", "winner": "Belgium" },
+        { "match": 82, "team1": "USA", "team2": "Bosnia & Herzegovina", "winner": "USA" },
+        { "match": 83, "team1": "Spain", "team2": "Austria", "winner": "Spain" },
+        { "match": 84, "team1": "Portugal", "team2": "Croatia", "winner": "Portugal" },
+        { "match": 85, "team1": "Switzerland", "team2": "Algeria", "winner": "Switzerland" },
+        { "match": 86, "team1": "Egypt", "team2": "Australia", "winner": "Egypt" },
+        { "match": 87, "team1": "Argentina", "team2": "Cape Verde", "winner": "Argentina" },
+        { "match": 88, "team1": "Colombia", "team2": "Ghana", "winner": "Colombia" }
       ],
 
       round16: [
