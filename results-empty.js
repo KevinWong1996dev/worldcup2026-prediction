@@ -193,7 +193,7 @@ const RESULTS = {
       "Uruguay",
       "Panama",
       "Uzbekistan",
-      "Algeria",
+      "Haiti",
       "Saudi Arabia",
       "Iraq",
       "Tunisia",
