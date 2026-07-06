@@ -201,7 +201,12 @@ const RESULTS = {
       "Argentina",
       "Colombia"
     ],
-    round16: [],
+    round16: [
+      "France",
+      "Morocco",
+      "Norway",
+      "England"
+    ],
     quarterfinals: [],
     semifinals: [],
 
@@ -234,10 +239,10 @@ const RESULTS = {
       ],
 
       round16: [
-         { match: 89, team1: "Paraguay", team2: "France", winner: "" },
-         { match: 90, team1: "Canada", team2: "Morocco", winner: "" },
-         { match: 91, team1: "Brazil", team2: "Norway", winner: "" },
-         { match: 92, team1: "Mexico", team2: "England", winner: "" },
+         { match: 89, team1: "Paraguay", team2: "France", winner: "France" },
+         { match: 90, team1: "Canada", team2: "Morocco", winner: "Morocco" },
+         { match: 91, team1: "Brazil", team2: "Norway", winner: "Norway" },
+         { match: 92, team1: "Mexico", team2: "England", winner: "England" },
          { match: 93, team1: "Portugal", team2: "Spain", winner: "" },
          { match: 94, team1: "USA", team2: "Belgium", winner: "" },
          { match: 95, team1: "Argentina", team2: "Egypt", winner: "" },
