@@ -205,7 +205,11 @@ const RESULTS = {
       "France",
       "Morocco",
       "Norway",
-      "England"
+      "England",
+      "Belgium",
+      "Spain",
+      "Argentina",
+      "Switzerland"
     ],
     quarterfinals: [],
     semifinals: [],
