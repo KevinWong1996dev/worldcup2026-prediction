@@ -224,10 +224,12 @@ const RESULTS = {
 
     champion: "France",
     runnerUp: "Argentina",
-    finalists: [],
-
-    thirdPlaceWinner: "",
-    final: "",
+    finalists: [
+      "France",
+      "Argentina"
+    ],
+    thirdPlaceWinner: "England",
+    final: "France",
     thirdPlace: "",
 
     matches: {
