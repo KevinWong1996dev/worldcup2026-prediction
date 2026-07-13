@@ -222,8 +222,8 @@ const RESULTS = {
       "Argentina"
     ],
 
-    champion: "",
-    runnerUp: "",
+    champion: "France",
+    runnerUp: "Argentina",
     finalists: [],
 
     thirdPlaceWinner: "",
