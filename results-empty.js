@@ -287,12 +287,17 @@ const RESULTS = {
 
   semifinalists: [
     "France",
+    "England",
+    "Spain",
     "Argentina"
   ],
-  finalists: [],
-  champion: "",
-  runnerUp: "",
-  thirdPlaceWinner: "",
+  finalists: [
+    "France",
+    "Argentina"
+  ],
+  champion: "France",
+  runnerUp: "Argentina",
+  thirdPlaceWinner: "England",
 
   awards: {
     goldenBoot: [],
