@@ -230,7 +230,7 @@ const RESULTS = {
     ],
     thirdPlaceWinner: "England",
     final: "France",
-    thirdPlace: "",
+    thirdPlace: "England",
 
     matches: {
       round32: [
@@ -285,7 +285,10 @@ const RESULTS = {
     }
   },
 
-  semifinalists: [],
+  semifinalists: [
+    "France",
+    "Argentina"
+  ],
   finalists: [],
   champion: "",
   runnerUp: "",
