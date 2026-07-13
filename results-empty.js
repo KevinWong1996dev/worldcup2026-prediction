@@ -222,15 +222,15 @@ const RESULTS = {
       "Argentina"
     ],
 
-    champion: "France",
-    runnerUp: "Argentina",
+    champion: "",
+    runnerUp: "",
     finalists: [
-      "France",
-      "Argentina"
+      "",
+      ""
     ],
-    thirdPlaceWinner: "England",
-    final: "France",
-    thirdPlace: "England",
+    thirdPlaceWinner: "",
+    final: "",
+    thirdPlace: "",
 
     matches: {
       round32: [
@@ -295,9 +295,9 @@ const RESULTS = {
     "France",
     "Argentina"
   ],
-  champion: "France",
-  runnerUp: "Argentina",
-  thirdPlaceWinner: "England",
+  champion: "",
+  runnerUp: "",
+  thirdPlaceWinner: "",
 
   awards: {
     goldenBoot: [],
