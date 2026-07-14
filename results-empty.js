@@ -218,7 +218,7 @@ const RESULTS = {
       "Argentina"
     ],
     semifinals: [
-      "France",
+      "Spain",
       "Argentina"
     ],
 
@@ -292,7 +292,7 @@ const RESULTS = {
     "Argentina"
   ],
   finalists: [
-    "France",
+    "Spain",
     "Argentina"
   ],
   champion: "",
