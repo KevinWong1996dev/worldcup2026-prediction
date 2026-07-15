@@ -225,7 +225,7 @@ const RESULTS = {
     champion: "",
     runnerUp: "",
     finalists: [
-      "",
+      "Spain",
       ""
     ],
     thirdPlaceWinner: "",
