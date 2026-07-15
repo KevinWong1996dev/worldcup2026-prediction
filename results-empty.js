@@ -280,7 +280,7 @@ const RESULTS = {
       ],
 
       final: [
-         { match: 104, team1: "Spain", team2: "Argentina", winner: "France" }
+         { match: 104, team1: "Spain", team2: "Argentina", winner: "Argentina" }
       ]
     }
   },
